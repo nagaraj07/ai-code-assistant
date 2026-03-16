@@ -1,0 +1,5 @@
+Kubernetes is an open source container orchestration platform.
+
+It automates deployment, scaling, and management of containerized applications.
+
+Deployments manage replica sets and ensure desired state of applications.
